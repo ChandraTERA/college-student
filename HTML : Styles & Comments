@@ -1,0 +1,23 @@
+<! DOCTYPEhtml !>
+<html>
+<header>
+<h1 title="Styles & Comments">Color & Comments</h1>
+
+  <body>
+        <body style="background-color:powderblue;">Dunia penuh dengan misteri</body>
+        <h1 style="font-family:times new roman;">Chandra</h1>
+        <h1 style="font-size:30px;">Lagu Rohani</h1>
+        <h1 style="color:red;">Man United</h1>
+        <h1 style="text-align:center;">Pusat</h1>
+        <p style="text-align:center;">Pusat</h1>
+  </body> 
+  <hr>
+  <body>
+        <!-- This is Comments -->
+        <!-- do not display to comments to images moments -->
+        <!-- img border="0" src="Man United" alt="Man United">
+        -->
+  </body>
+  
+  <header>
+  </html>
